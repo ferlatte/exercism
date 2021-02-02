@@ -1,3 +1,3 @@
 # Exercism
 
-Marks' exercism exercises for fun.
+Mark's exercism exercises for fun.
